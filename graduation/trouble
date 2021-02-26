@@ -1,0 +1,30 @@
+轮播图片父容器不给高度，要拿到图片的高度赋给父元素
+img = new Image()
+
+父组件 beforeCreate created 子组件 beforeCreate created mounted 父组件mounted
+home组件中的一个子组件使用了子路由，但是子路由中的组件的mounted中使用this.$ref拿不到dom数据
+解决：使用setTimeout延迟100ms执行
+
+Vue中DOM更新是异步的
+只要观察到数据变化，Vue 将开启一个队列，并缓冲在同一事件循环中发生的所有数据改变。
+如果同一个 watcher 被多次触发，只会被推入到队列中一次。这种在缓冲时去除重复数据对于避免不必要的计算和 DOM 操作上非常重要。
+然后，在下一个的事件循环“tick”中，Vue 刷新队列并执行实际 (已去重的) 工作。
+Vue 在内部尝试对异步队列使用原生的 Promise.then 和MessageChannel，如果执行环境不支持，会采用 setTimeout(fn, 0)代替。
+例如，当你设置vm.someData = 'new value'，该组件不会立即重新渲染。当刷新队列时，组件会在事件循环队列清空时的下一个“tick”更新。
+
+<ticket :ticketMessage="item" @click.native="ticketItemClick">
+给已封装好的组件添加click事件，需要使用.native
+
+在mounted中设置某些属性时，会出现dom未更新，可以使用nextTick
+如要在created中操作dom，可以将操作放在nextTick中。
+在进行请求时，使用Promise拿到返回结果的(异步),会在其子组件中出现数据延迟，可以子组件将数据的操作放在setTimeout中
+
+在页面内使用对象的某个数据时，页面没问题，但是控制台会报错
+原因：在页面使用该数据时，该数据还没有加载完成
+解决：要么判断一下；要么在定义一个变量，在页面内不使用该对象的属性，而使用该变量
+
+当一个对象直接复制给另一个对象时，会出现页面中数据绑定来源于两个对象（地址相同）
+解决：使用对象解构赋值
+
+
+

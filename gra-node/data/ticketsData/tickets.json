@@ -1,0 +1,506 @@
+[
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "09:01",
+    "endTime": "09:27",
+    "trainNum": "A12345",
+    "date": "02-11",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "10:01",
+    "endTime": "10:27",
+    "trainNum": "B12345",
+    "date": "02-11",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "14:01",
+    "endTime": "14:27",
+    "trainNum": "B12345",
+    "date": "02-11",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "16:01",
+    "endTime": "16:27",
+    "trainNum": "B12345",
+    "date": "02-11",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "09:01",
+    "endTime": "09:27",
+    "trainNum": "C12345",
+    "date": "02-12",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "10:01",
+    "endTime": "10:27",
+    "trainNum": "D12345",
+    "date": "02-12",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "13:10",
+    "endTime": "13:38",
+    "trainNum": "D12345",
+    "date": "02-12",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "16:10",
+    "endTime": "16:38",
+    "trainNum": "D12345",
+    "date": "02-12",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "09:01",
+    "endTime": "09:27",
+    "trainNum": "E12345",
+    "date": "02-13",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "10:01",
+    "endTime": "10:27",
+    "trainNum": "F12345",
+    "date": "02-13",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "13:01",
+    "endTime": "13:27",
+    "trainNum": "F12345",
+    "date": "02-13",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "双流机场",
+    "destination": "彭山北",
+    "startTime": "15:30",
+    "endTime": "15:57",
+    "trainNum": "F12345",
+    "date": "02-13",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "09:32",
+    "endTime": "10:01",
+    "trainNum": "G12345",
+    "date": "02-11",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "11:01",
+    "endTime": "11:30",
+    "trainNum": "H12345",
+    "date": "02-11",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "12:32",
+    "endTime": "13:01",
+    "trainNum": "G12345",
+    "date": "02-11",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "17:32",
+    "endTime": "18:01",
+    "trainNum": "G12345",
+    "date": "02-11",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "09:32",
+    "endTime": "10:01",
+    "trainNum": "I12345",
+    "date": "02-12",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "11:01",
+    "endTime": "11:30",
+    "trainNum": "J12345",
+    "date": "02-12",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "14:01",
+    "endTime": "14:30",
+    "trainNum": "J12345",
+    "date": "02-12",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "16:21",
+    "endTime": "17:00",
+    "trainNum": "J12345",
+    "date": "02-12",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "09:32",
+    "endTime": "10:01",
+    "trainNum": "K12345",
+    "date": "02-13",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "11:01",
+    "endTime": "11:30",
+    "trainNum": "L12345",
+    "date": "02-13",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 1
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "19:01",
+    "endTime": "19:30",
+    "trainNum": "L12345",
+    "date": "02-13",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  },
+  {
+    "departure": "成都南",
+    "destination": "彭山北",
+    "startTime": "20:01",
+    "endTime": "20:30",
+    "trainNum": "L12345",
+    "date": "02-13",
+    "second": {
+      "price": 23,
+      "residue": 50      
+    },
+    "first": {
+      "price": 30,
+      "residue": 50      
+    },
+    "noSeat": {
+      "price": 23,
+      "residue": 50      
+    },
+    "category": 0
+  }
+]
